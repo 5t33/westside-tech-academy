@@ -1,3 +1,4 @@
+```
 brew install pyenv
 eval "$(pyenv init -)"
 pyenv install 3.7.9
@@ -23,3 +24,4 @@ pip3 install flask
 
 # create requirements.txt
 pip3 freeze > requirements.txt
+```
